@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Vampiros y Mazmorras
-  pageTitleSuffix: " | Crónicas de la Oscuridad"
+  pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:

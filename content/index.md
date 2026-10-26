@@ -1,6 +1,13 @@
 ---
-title: Welcome to Quartz
+title: Vampiros y Mazmorras
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Vampiros y Mazmorras
+
+¡Bienvenido a Vampiros y Mazmorras!
+
+## Introducción
+
+- [[Introducción/Antes de empezar a jugar|Antes de empezar a jugar]]
+- [[Introducción/Creación de personaje|Creación de personaje]]
+- [[Introducción/Vampiros y Mazmorras|Vampiros y Mazmorras]]

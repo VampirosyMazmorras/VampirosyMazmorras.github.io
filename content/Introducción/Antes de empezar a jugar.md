@@ -44,7 +44,7 @@ A la hora de jugar es importante que recuerdes y entiendas estos puntos para mej
 
 - Intenta jugar un personaje que no sea perfecto pero que sea activamente un héroe o alguien sociable y cooperativo que no tarde mucho en tratar de ser un héroe.
 
-- Trata de permitir que tu personaje sienta miedo verdadero cuando se enfrente a una amenaza mucho superior, y permite que ese miedo impacte las acciones de tu personaje, su crecimiento y su desarrollo.
+- Trata de permitir que tu personaje sienta miedo verdadero cuando se enfrente a una amenaza mucho más superior, y permite que ese miedo impacte las acciones de tu personaje, su crecimiento y su desarrollo.
 
 - Aspira a crear amistades con personajes no jugables y a que te importen sus vidas y metas.
 

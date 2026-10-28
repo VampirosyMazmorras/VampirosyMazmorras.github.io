@@ -37,6 +37,7 @@ Debido a que la campaña ocurre en un sitio al que tu personaje viaja pero del c
 
 Al contrario, es especialmente útil que en tu trasfondo aparezcan personajes que pueden estar situados en este reino perdido y con los que te quieras encontrar, traumas y miedos que tu personaje sufra y quiera superar y sobre todo una razón por la que tu personaje quiera volver al mundo real y le motive a seguir luchando.
 
+
 **6- Defectos:**
 
 Esta es una lista de defectos que puedes añadir opcionalmente a tu personaje, son defectos que encajan con la temática y te pueden dar ideas.

@@ -5,7 +5,7 @@ En esta página puedes leer toda la información para crear tu personaje. Aquí 
 
 Es útil que antes de mirar esta página hayas leído [[Antes de empezar a jugar]].
 
-## Dónde tomará lugar la campaña
+## ¿Dónde tomará lugar la campaña?
 
 Tu personaje será misteriosamente llamado por el destino y deberá de viajar con un grupo de otros aventureros a un reino sombrío que no aparece en ningún mapa. Es prácticamente imposible salir de este lugar, y está lleno de criaturas oscuras y siniestras. La supervivencia no está para nada garantizada en este sitio y deberás luchar a diario para poder sobrevivir e intentar encontrar cómo abandonar este reino. 
 

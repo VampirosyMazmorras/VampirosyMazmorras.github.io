@@ -1,6 +1,6 @@
 En esta página puedes leer toda la información que deberías saber antes de jugar la campaña. Es recomendable que sepas todo para saber qué te vas a encontrar o por si quieres cambiar algo.
 
-## Cosas que esperar en la campaña
+## ¿Qué esperar en la campaña?
 
 - **Tono:** Esta será una aventura de fantasía heroica ambientada en un entorno de fantasía oscura y terror gótico. Tu personaje idealmente debería de ser un héroe, o tener el potencial de convertirse en uno rápidamente al enfrentarse a una situación de vida o muerte. Prepárate para cooperar y colaborar con los demás jugadores para tener éxito.
 

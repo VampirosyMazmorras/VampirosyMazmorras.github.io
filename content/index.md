@@ -2,12 +2,12 @@
 title: Vampiros y Mazmorras
 ---
 
-En esta página web iré escribiendo todo lo relacionado con las campañas de rol, con información tanto general como para los dos grupos. 
+En esta página web puedes encontrar todo lo relacionado con la campaña de rol que vas a jugar, con información tanto general como especial para cada grupo. 
 
-A medida que pasen las sesiones, iré añadiendo resúmenes, información de personajes y otros datos importantes. La idea es que tanto vosotros como yo lo podamos revisar para recordar algo de antes y no mezclar cosas entre los dos grupos. El contenido estará dividido por arcos y capítulos, además de entre los dos grupos.
+A medida que pasen las sesiones, añadiré resúmenes, información de personajes y otros datos importantes. La idea es que tanto vosotros como yo lo podamos revisar para recordar algo de antes y no mezclar cosas entre los dos grupos. El contenido estará dividido por arcos y capítulos, además de entre los jugadores.
 
-> [!tip] Ten cuidado
-> Intenta no mirar los apuntes del grupo que no es tuyo.
+> [!warning] Ten cuidado
+> Intenta no mirar los apuntes del grupo que no es tuyo para evitar spoilers.
 
 ## Introducción
 

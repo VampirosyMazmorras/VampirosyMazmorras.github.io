@@ -1,4 +1,4 @@
-En esta nota puedes leer toda la información que deberías saber antes de jugar la campaña. Es recomendable que sepas todo para saber qué te vas a encontrar o por si quieres cambiar algo.
+En esta página puedes leer toda la información que deberías saber antes de jugar la campaña. Es recomendable que sepas todo para saber qué te vas a encontrar o por si quieres cambiar algo.
 
 **1- Cosas que esperar en la campaña:**
 

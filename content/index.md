@@ -6,7 +6,7 @@ En esta página web iré escribiendo todo lo relacionado con las campañas de ro
 
 A medida que pasen las sesiones, iré añadiendo resúmenes, información de personajes y otros datos importantes. La idea es que tanto vosotros como yo lo podamos revisar para recordar algo de antes y no mezclar cosas entre los dos grupos. El contenido estará dividido por arcos y capítulos, además de entre los dos grupos.
 
-> [!warning] Ten cuidado
+> [!tip] Ten cuidado
 > Intenta no mirar los apuntes del grupo que no es tuyo.
 
 ## Introducción

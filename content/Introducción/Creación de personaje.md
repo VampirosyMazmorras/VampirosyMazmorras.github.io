@@ -11,7 +11,7 @@ Tu personaje será misteriosamente llamado por el destino y deberá de viajar co
 
 Las tierras que vas a visitar tienen una historia extremadamente amplia y misteriosa, y descubrir lo que ha pasado aquí es la clave a la que todos aspiran.
 
-## Nivel del personaje:
+## Nivel del personaje
 
 Los personajes irán desde el nivel 1 hasta el nivel 10 (aproximadamente). Hay puntos de experiencia, pero no se consiguen matando criaturas, sino que se sube de nivel consiguiendo logros que garanticen tu supervivencia o avancen los misterios de la trama. Por lo general, se subirá de nivel rápido en las primeras sesiones pero de forma más lenta posteriormente.
 

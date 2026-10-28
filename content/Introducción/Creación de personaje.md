@@ -5,25 +5,25 @@ En esta página puedes leer toda la información para crear tu personaje. Aquí 
 
 Es útil que antes de mirar esta página hayas leído [[Antes de empezar a jugar]].
 
-**1- Dónde tomará lugar la campaña:**
+## Dónde tomará lugar la campaña:
 
 Tu personaje será misteriosamente llamado por el destino y deberá de viajar con un grupo de otros aventureros a un reino sombrío que no aparece en ningún mapa. Es prácticamente imposible salir de este lugar, y está lleno de criaturas oscuras y siniestras. La supervivencia no está para nada garantizada en este sitio y deberás luchar a diario para poder sobrevivir e intentar encontrar cómo abandonar este reino. 
 
 Las tierras que vas a visitar tienen una historia extremadamente amplia y misteriosa, y descubrir lo que ha pasado aquí es la clave a la que todos aspiran.
 
-**2- Nivel del personaje:**
+## Nivel del personaje:
 
 Los personajes irán desde el nivel 1 hasta el nivel 10 (aproximadamente). Hay puntos de experiencia, pero no se consiguen matando criaturas, sino que se sube de nivel consiguiendo logros que garanticen tu supervivencia o avancen los misterios de la trama. Por lo general, se subirá de nivel rápido en las primeras sesiones pero de forma más lenta posteriormente.
 
 Debido a todo esto, no es necesario planear mucho tu personaje para las habilidades que debería aprender en niveles avanzados, y no deberías de crear una build de juego tardío que florezca en niveles más allá del 10.
 
-**3- Razas:**
+## Razas:
 
 Casi todos los personajes que te vas a encontrar son humanos, con excepciones en personajes excepcionalmente únicos o monstruos. Es por esto que lo más fácil es que tu personaje sea un humano o una variante del mismo.
 
 Si decides que tu personaje no sea un humano, considera si quieres que afecte al roleplay y no solo a las estadísticas o a la apariencia. De esta forma, puedes crear un personaje tiefling o goliath pero que sea rechazado y sufra sospechas de los humanos, intentando dar otra forma de profundidad al juego. Puedes considerar hacer un hombre lobo o un vampiro, aunque son opciones más difíciles y deberías pensarlas bien y hablarlas conmigo.
 
-**4- Clases, habilidades y hechizos:**
+## Clases, habilidades y hechizos:
 
 Debido a la importancia de crear amistades y alianzas, a que los recursos son escasos en el mundo desolado y oscuro, y que los enemigos suelen ser no muertos y otras criaturas propias del terror gótico, algunas opciones pueden ser naturalmente más útiles que otras. 
 
@@ -31,14 +31,14 @@ Habilidades asociadas con el carisma, conocimiento de la religión y los no muer
 
 Algunos trucos y hechizos que pueden demostrar ser especialmente útiles son luz, reparar, crear llama, resistencia, llama sagrada, alarma, detectar el bien y el mal, detectar magia, favor divino, fuego feérico, saeta guía, palabra de curación, heroísmo, protección contra el bien y el mal, hablar con los animales, mensajero animal, augurio, calmar emociones, visión en la oscuridad, hallar corcel, detectar trampas, restablecimiento menor, arma mágica, fuente de luz lunar, ver invisibilidad o zona de la verdad.
 
-**5- Trasfondos de personaje:**
+## Trasfondos de personaje:
 
 Debido a que la campaña ocurre en un sitio al que tu personaje viaja pero del cual no puede salir, es importante que en tu trasfondo no incluyas lugares o ciudades que te gustarían visitar, al igual que personajes que viven en sitios conocidos y estás buscando en un lugar distinto al reino en el que transcurre el juego.
 
 Al contrario, es especialmente útil que en tu trasfondo aparezcan personajes que pueden estar situados en este reino perdido y con los que te quieras encontrar, traumas y miedos que tu personaje sufra y quiera superar y sobre todo una razón por la que tu personaje quiera volver al mundo real y le motive a seguir luchando.
 
 
-**6- Defectos:**
+## Defectos:
 
 Esta es una lista de defectos que puedes añadir opcionalmente a tu personaje, son defectos que encajan con la temática y te pueden dar ideas.
 
@@ -76,7 +76,7 @@ Esta es una lista de defectos que puedes añadir opcionalmente a tu personaje, s
 |    **Timidez**     |        Debo aprender a valerme por mí mismo, en lugar de dejar que otros me me controlen.        |
 |   **Vergüenza**    |                 Debo aprender a soltar la culpa por los errores que he cometido.                 |
 
-**7- Vínculos:**
+## Vínculos:
 
 De la misma forma que los defectos, puedes tomar ideas opcionalmente de esta lista de vínculos para que tu personaje tenga más profundidad y te facilite más a conocerlo y ayudarle a vivir aventuras.
 
@@ -111,7 +111,7 @@ De la misma forma que los defectos, puedes tomar ideas opcionalmente de esta lis
 |     **Romance**     |                        El amor nunca muere. Puede parpadear, pero nunca dejaré que se apague.                        |
 |     **Secreto**     |      Una vez le prometí a alguien que mantendría sus secretos a salvo. Pienso cumplirlo, cueste lo que cueste.       |
 
-**8- Motivación:**
+## Motivación:
 
 Al contrario de los defectos y los vínculos que son opcionales, es obligatorio que tu personaje tenga una motivación. Esta motivación hará que tu personaje tenga una razón para que el destino tome interés por su futuro y que la historia se vaya desarrollando poco a poco. Debes elegir una entre las siguientes, basándose en qué es lo que tu personaje más desea:
 

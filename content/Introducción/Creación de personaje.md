@@ -55,6 +55,7 @@ Esta es una lista de defectos que puedes añadir opcionalmente a tu personaje, s
 |    **Control**     |              Debo aprender a soltar mi necesidad de controlar a quienes me rodean.               |
 |     **Culpa**      |          Debo aprender a soltar mi culpa por no haber podido proteger a mi ser querido.          |
 |     **Dudas**      |                 Debo aprender a convertirme en el héroe que he estado esperando.                 |
+|    **Envidia**     |             Debo aprender a aceptar que otros tienen una sabiduría que yo no poseo.              |
 |    **Impiedad**    |             Debo aprender a encontrar el camino de regreso a la gracia que abandoné.             |
 | **Implacabilidad** |                    Debo aprender el valor de la misericordia y la compasión.                     |
 |   **Indecisión**   |          Debo aprender a vencer mi miedo a las responsabilidades que se esperan de mí.           |
@@ -65,7 +66,6 @@ Esta es una lista de defectos que puedes añadir opcionalmente a tu personaje, s
 |    **Negación**    |             Debo aprender a permitirme sentir el duelo por las cosas que he perdido.             |
 |   **Nostalgia**    |                  Debo aprender a dejar el pasado atrás y mirar hacia el futuro.                  |
 |    **Obsesión**    |          Debo aprender a afrontar los daños que mis obsesiones han causado a los demás.          |
-|    **Orgullo**     |             Debo aprender a aceptar que otros tienen una sabiduría que yo no poseo.              |
 |    **Orgullo**     | Debo aprender a pedir ayuda a los demás, en lugar de cargar con toda la responsabilidad a solas. |
 |    **Paranoia**    |             Debo aprender a dejar de usar mis miedos como excusa para dañar a otros.             |
 |     **Pesar**      |                      Debo aprender a dejar atrás al ser querido que perdí.                       |

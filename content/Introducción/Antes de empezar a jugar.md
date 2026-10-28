@@ -38,7 +38,7 @@ Estos temas no pueden ser iniciados por los jugadores, sin embargo, debido a que
 
 - Racismo.
 
-## Cosas importantes a tener en cuenta:
+## Cosas importantes a tener en cuenta
 
 A la hora de jugar es importante que recuerdes y entiendas estos puntos para mejorar la experiencia a modo de consejos de como jugar.
 

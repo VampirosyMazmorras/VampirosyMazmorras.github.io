@@ -1,6 +1,6 @@
 En esta nota puedes leer toda la información para crear tu personaje. Aquí no vas a encontrar una guía para hacer un personaje general de Dragones y Mazmorras, para eso te recomiendo que me preguntes a mí o que busques tutoriales e información en el PDF que he pasado. En vez de eso, esta página sirve para cosas del personaje que son específicas para la campaña y que ayudan a que el personaje esté más conectado con la historia y el mundo en el que va a vivir aventuras.
 
-> [!tip] ¿Qué es obligatorio?
+> [!info] ¿Qué es obligatorio?
 > Al final de esta nota puedes ver una serie de motivaciones. Lo único obligatorio de todo lo que hay en esta página es que tu personaje tenga una de esas motivaciones, el resto son consejos o ideas para darle profundidad.
 
 Es útil que antes de mirar esta nota hayas leído [[Antes de empezar a jugar]].
